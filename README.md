@@ -1,4 +1,8 @@
-# Webster's Unabridged English Dictionary
+# A MongoDB Import Friendly Version
+
+A version of the webstersEnglishDictionary repo that is formatted to be imported into MongoDB
+
+## Webster's Unabridged English Dictionary
 
 This repository contains *Webster's Unabridged English Dictionary* (from the [Gutenberg Project](www.gutenberg.net)) in several formats:
 
